@@ -1,4 +1,4 @@
-import { gql } from "@apollo/client";
+import gql from "graphql-tag";
 
 export const GET_ANIME_PAGE = gql`
   query GetAnimePage($page: Int!, $perPage: Int!) {
@@ -6,11 +6,12 @@ export const GET_ANIME_PAGE = gql`
       media {
         id
         description
+        averageScore
         title {
           english
         }
         coverImage {
-          medium
+          extraLarge
         }
       }
     }
