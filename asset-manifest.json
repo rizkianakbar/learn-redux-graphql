@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-graphql/static/css/main.9985f81e.chunk.css",
+    "main.js": "/redux-graphql/static/js/main.6d2ede3f.chunk.js",
+    "main.js.map": "/redux-graphql/static/js/main.6d2ede3f.chunk.js.map",
+    "runtime-main.js": "/redux-graphql/static/js/runtime-main.2199f73e.js",
+    "runtime-main.js.map": "/redux-graphql/static/js/runtime-main.2199f73e.js.map",
+    "static/js/2.95332ca4.chunk.js": "/redux-graphql/static/js/2.95332ca4.chunk.js",
+    "static/js/2.95332ca4.chunk.js.map": "/redux-graphql/static/js/2.95332ca4.chunk.js.map",
+    "index.html": "/redux-graphql/index.html",
+    "static/css/main.9985f81e.chunk.css.map": "/redux-graphql/static/css/main.9985f81e.chunk.css.map",
+    "static/js/2.95332ca4.chunk.js.LICENSE.txt": "/redux-graphql/static/js/2.95332ca4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2199f73e.js",
+    "static/js/2.95332ca4.chunk.js",
+    "static/css/main.9985f81e.chunk.css",
+    "static/js/main.6d2ede3f.chunk.js"
+  ]
+}
